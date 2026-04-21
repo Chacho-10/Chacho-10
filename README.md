@@ -1,16 +1,33 @@
 ## Hi there 👋
+# 👋 Hola, soy Chacho
 
-<!--
-**Chacho-10/Chacho-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas (4to año)  
+💻 Enfocado en desarrollo de software  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 🚀 Tecnologías
+- 💻 Lenguajes: Java, Python, JavaScript  
+- 🗄️ Bases de datos: MySQL / PostgreSQL  
+- 🛠️ Herramientas: Git, GitHub  
+
+---
+
+## 📌 Sobre mí
+Soy estudiante avanzado con interés en el desarrollo de software.  
+Me gusta aprender nuevas tecnologías y trabajar en proyectos prácticos.
+
+---
+
+## 📈 Actualmente
+- Mejorando mis habilidades en programación
+- Desarrollando proyectos personales
+
+---
+
+## 📫 Contacto
+- Email: (diegocabezas200411gmail.com)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
