@@ -7,14 +7,15 @@
 
 ## 🚀 Tecnologías
 - 💻 Lenguajes: Java, Python, JavaScript  
-- 🗄️ Bases de datos: MySQL / PostgreSQL  
+- 🗄️ Bases de datos: MySQL, PostgreSQL  
 - 🛠️ Herramientas: Git, GitHub  
+
 
 ---
 
 ## 📌 Sobre mí
-Soy estudiante avanzado con interés en el desarrollo de software.  
-Me gusta aprender nuevas tecnologías y trabajar en proyectos prácticos.
+Soy estudiante de Ingeniería en Sistemas con enfoque en desarrollo de software.  
+Me interesa especialmente el backend y la creación de aplicaciones prácticas.
 
 ---
 
