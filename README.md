@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hola, soy Chacho
 
 🎓 Estudiante de Ingeniería en Sistemas (4to año)  
