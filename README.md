@@ -27,7 +27,4 @@ Me interesa especialmente el backend y la creación de aplicaciones prácticas.
 
 ## 📫 Contacto
 - Email: (diegocabezas200411gmail.com)
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
